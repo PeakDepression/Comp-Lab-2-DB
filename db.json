@@ -32,6 +32,28 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "Entertainment",
+      "title": "Festival Gathering",
+      "description": "Have some fun and enjoys some food.",
+      "location": "ur moms house",
+      "date": "July 22, 2030",
+      "time": "23:00",
+      "petsAllowed": false,
+      "organizer": "Mike Oxlong"
+    },
+    {
+      "id": 3498032,
+      "category": "Music",
+      "title": "Concert",
+      "description": "Have some fun and enjoys some food.",
+      "location": "Stadium",
+      "date": "July 29, 2030",
+      "time": "23:00",
+      "petsAllowed": false,
+      "organizer": "Zara Larson"
     }
   ]
 }
